@@ -12,7 +12,9 @@ public class UserManager {
   private HashMap<String, String> passwords = new HashMap<String,String>();
   
 
-
+  public int getAccessLevel() {
+    return this.user.getAccessLevel();
+  }
 
 /*-------------------------------------------------------------------------------------------------
 ######################################### Object Creation #########################################
@@ -52,8 +54,8 @@ public class UserManager {
 --------------------------------------------------------------------------------------------------*/
 
   public void login(String username, String password) {
-    //TODO - Verify user
-    this.user = this.users.get(username);
+    if (passwords.get(username).equals(password))
+      this.user = this.users.get(username);
   }
 
   public void logout() {
