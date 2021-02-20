@@ -1,0 +1,6 @@
+What would you like to do!
+--------------------------
+
+(1) Search Database
+(2) Enter New Data
+(5) Logout

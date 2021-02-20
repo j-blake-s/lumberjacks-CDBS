@@ -1,0 +1,2 @@
+Goodbye <User>!
+->Logout Successful<-

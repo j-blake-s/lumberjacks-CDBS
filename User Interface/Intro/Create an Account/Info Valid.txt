@@ -1,0 +1,4 @@
+What is your name?
+<User Input>
+What is your badge number?
+<User Input>

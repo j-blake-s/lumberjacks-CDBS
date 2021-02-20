@@ -1,4 +1,4 @@
-
+package Code;
 /**
  * Allows users to interact with the criminal database software.
  * @author Blake Seekings

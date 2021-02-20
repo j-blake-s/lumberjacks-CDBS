@@ -1,4 +1,4 @@
-
+package Code;
 /**
  * Possible Additions:
  *  - GUI Class, handles the printing of prompts and information.
