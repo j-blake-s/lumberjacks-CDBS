@@ -1,6 +1,0 @@
-What kind of search would you like to make?
--------------------------------------------
-
-(1) Exact Search
-(2) Partial Search
-(3) Back
