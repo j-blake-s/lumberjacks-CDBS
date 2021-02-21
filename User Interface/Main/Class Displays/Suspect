@@ -1,0 +1,29 @@
+    - <ID>
+    - <Name>
+    - <Age>
+    - <Race>
+    - <Gender>
+    - <Hair Color>
+    - <Hair Style>
+    - <Eye Color>
+    - <Address>
+    - <Tattoos>
+    - <Gang>
+    - <Is Repeat Offender>
+    - <VictimRelationship>
+    - <Foot Size>
+    - <Preffered Clothes>
+    - <Nick Names>
+    - <Common Words>
+    - <Hobbies>
+    - <Job>
+    - <Distinct Physical Trait>
+
+What would you like to do
+-----------------------------------
+
+(0) Back
+(1) View Accomplices
+(2) View Family Members
+(1) Edit
+(2) Delete

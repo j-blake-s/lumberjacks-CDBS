@@ -1,0 +1,27 @@
+    - <ID>
+    - <Name>
+    - <Age>
+    - <Race>
+    - <Gender>
+    - <Hair Color>
+    - <Hair Style>
+    - <Eye Color>
+    - <Address>
+    - <Statement>
+    - <Is Alive>
+
+What would you like to edit
+-----------------------------------
+
+ (0) Back
+ (1) ID
+ (2) Name
+ (3) Age
+ (4) Race
+ (5) Gender
+ (6) Hair Color
+ (7) Hair Style
+ (8) Eye Color
+ (9) Address
+ (10) Statement
+(11) Is Alive

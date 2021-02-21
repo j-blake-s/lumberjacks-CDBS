@@ -1,0 +1,21 @@
+    - <ID>
+    - <Name>
+    - <Age>
+    - <Race>
+    - <Gender>
+    - <Hair Color>
+    - <Hair Style>
+    - <Eye Color>
+    - <Address>
+    - <Tattoos>
+    - <Gang>
+    - <isRepeatOffender>
+    - <VictimRelationship>
+    - etc
+
+What would you like to do
+-----------------------------------
+
+(0) Back
+(1) Edit
+(2) Delete

@@ -1,0 +1,30 @@
+    - <ID>
+    - <Name>
+    - <Age>
+    - <Race>
+    - <Gender>
+    - <Hair Color>
+    - <Hair Style>
+    - <Eye Color>
+    - <Address>
+    - <Tattoos>
+    - <Gang>
+    - <Is Repeat Offender>
+    - <VictimRelationship>
+    - <Foot Size>
+    - <Preffered Clothes>
+    - <Nick Names>
+    - <Common Words>
+    - <Hobbies>
+    - <Job>
+    - <Distinct Physical Trait>
+
+What would you like to do
+-----------------------------------
+
+ (0) Back
+ (1) <Common Words>
+ (2) <Hobbies>
+ (3) <Job>
+ (4) <Distinct Physical Trait>
+ 

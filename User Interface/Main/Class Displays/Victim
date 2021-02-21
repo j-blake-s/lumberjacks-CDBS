@@ -1,0 +1,19 @@
+    - <ID>
+    - <Name>
+    - <Age>
+    - <Race>
+    - <Gender>
+    - <Hair Color>
+    - <Hair Style>
+    - <Eye Color>
+    - <Address>
+    - <Statement>
+    - <Is Alive>
+
+What would you like to do
+-----------------------------------
+
+(0) Back
+(1) View Hospital Records
+(2) Edit
+(3) Delete

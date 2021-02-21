@@ -1,0 +1,22 @@
+    - <ID>
+    - <Type of Crime>
+    - <Level of Charge>
+    - <Jurisdiction>
+    - <isOpen>
+    - <Author>
+    - <Location>
+   
+
+What would you like to do
+-----------------------------------
+
+(0) Back
+(1) Edit
+(2) Delete
+(3) View POIs
+(4) View Suspects
+(5) View Criminals
+(6) View Victims
+(7) View Witnesses
+(8) View Officers
+(9) View Evidence 
