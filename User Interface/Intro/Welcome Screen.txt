@@ -1,6 +1,10 @@
-Welcome to out "Software"
--------------------------
+Welcome to the Criminal Database Software
+-----------------------------------------
 
-(1) Login
-(2) Create an Account
-(3) Quit
+**********************|
+                      |
+(1) Login             |
+(2) Create an Account |
+(3) Quit              |
+                      |
+**********************|
